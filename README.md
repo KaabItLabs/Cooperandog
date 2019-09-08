@@ -1,6 +1,6 @@
 # cooperandog
 
-A new Flutter project.
+A project made with Flutter and Django 2.2.
 
 ## Getting Started
 
